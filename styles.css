@@ -1,0 +1,28 @@
+body {
+    width: 200px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input,
+  button {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
